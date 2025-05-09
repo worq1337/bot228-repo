@@ -70,3 +70,7 @@ deploy.sh
 .directory
 .gdb_history
 Thumbs.db
+
+.env
+__pycache__/
+*.pyc
